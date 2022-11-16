@@ -43,11 +43,11 @@ a {
 }
 
 .button-header:hover {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 .button-header:active {
-    opacity: 0.8;
+    opacity: .8;
 }
 
 
